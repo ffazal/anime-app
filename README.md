@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template. This is a simple React App that renders trending animes using GraphQL API, utilizing the Redux store to manage the state/data. 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template. This is a simple React App that displays trending animes using GraphQL API, utilizing the Redux store to manage the state/data. 
 
 ## Available Scripts
 
